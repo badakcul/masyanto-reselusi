@@ -2,6 +2,7 @@ RENCANA KONTEN WEB E-LEARNING MASYANTO
 
   - membuat video materi HTML & CSS
   - membuat video materi bcotstrap
+  - membuat fungsi struktur data dasar
   - membuat video materi PHP Native
     " company profile
     " e-commerce
