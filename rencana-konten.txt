@@ -7,3 +7,5 @@ RENCANA KONTEN WEB E-LEARNING MASYANTO
     " company profile
     " e-commerce
   - membuat video materi PHP Framework
+    " Laravel
+    
